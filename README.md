@@ -17,3 +17,13 @@
 - The app also used Google's Gson dependency to parse JSON data into the database.
 - The app uses GitHub and my-json-server to host a JSON file as a mock API.
 - Rawpixel.com was used to source the free PNG used as the app icon.
+
+## App Basics (Actual inventory is much longer, this is a test)
+![image](https://github.com/user-attachments/assets/2c24dd82-3fdd-415b-84de-9b39e0ef0ef5)
+
+
+## Notifications, Permissions and Pop-ups
+![image](https://github.com/user-attachments/assets/7441d36c-c00f-4b88-8d45-f8787f8b3fd5)
+
+
+
